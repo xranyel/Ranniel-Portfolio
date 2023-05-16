@@ -239,6 +239,7 @@
 				padding: 10px;
 				border: none;
 				border-radius: 10px;
+				color: $clr-white;
 			}
 			input::placeholder {
 				color: $clr-white;
@@ -250,6 +251,7 @@
 				padding: 10px;
 				resize: none;
 				border-radius: 10px;
+				color: $clr-white;
 				@include mediaQuery(){
 					width: 100%;
 				}
